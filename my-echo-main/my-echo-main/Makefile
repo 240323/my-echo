@@ -1,6 +1,6 @@
 NAME := my-echo
 REPOSITORY := 240323/my-echo
-TAG := 2023118
+TAG := 240323
 GOOS := linux
 GOARCH := amd64
 
